@@ -2,7 +2,7 @@
 
 **⚡About me**
 
-I'm an enthusiastic Java Full Stack Developer.
+***I'm an enthusiastic Java Full Stack Developer.***
 
 - 🌐I have a strong understanding of Core Java and OOPs concepts.
 - </>I'm familiar with web technologies such as HTML5, CSS, Java-Script, Bootstrap 5 & Tailwind CSS.
